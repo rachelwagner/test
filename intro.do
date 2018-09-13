@@ -10,4 +10,6 @@ d
 sum
 ta rep78
 ta foreign rep78
+//and then you can produce a histogram
+hist price
 edit
